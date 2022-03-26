@@ -1,4 +1,0 @@
-repository "VR Room Project@Kenx00x@cloud"
-  path "/"
-    br "/main"
-    co "/main"
