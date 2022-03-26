@@ -1,5 +1,7 @@
 Voornaam en naam: Ignace Shoeib
+
 Challenge: 3
+
 Taken die ik heb gedaan:
   1.  The black fade in screen appears in the middle of the factory.
   2.  The “Console Labels” toggle makes the entire console disappear.
