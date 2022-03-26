@@ -12,3 +12,5 @@ Taken die ik heb gedaan:
   7.  The user has access to their ray and direct interactors throughout the entire app.
   8.  There is no way for the user to be able to control the speed of the magnet. [Expert} (IncreaseSpeed and DecreaseSpeed method in https://github.com/AP-IT-GH/virtual-reality-challenge-ignace-shoeib/blob/main/Assets/_Course%20Library/Scripts/Actions/MoveWithVelocity.cs )
   9.  There is no way for the user to track or save their progress in this training. [Expert] ( https://github.com/AP-IT-GH/virtual-reality-challenge-ignace-shoeib/blob/main/Assets/TimeElapsed.cs and https://github.com/AP-IT-GH/virtual-reality-challenge-ignace-shoeib/blob/main/Assets/BoxesLifted.cs )
+
+Panopto video: https://ap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6af76f02-ca19-44e4-a704-ae64014d5a33
